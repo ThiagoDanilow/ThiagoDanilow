@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🖥 Front-end Developer<br>🐘 PHP Developer<br>📖 Studying Back-end</p>
+<p align="left">🖥 Front-end Developer<br>🐘 Node.JS Developer<br>📖 Studying Back-end</p>
 
 ###
 
