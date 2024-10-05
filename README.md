@@ -12,7 +12,7 @@ I'm full-stack developer and content creator
 
 ###
 
-# <p align="left">TECHS</p>
+# <p align="left">Technologies</p>
 
 ###
 
