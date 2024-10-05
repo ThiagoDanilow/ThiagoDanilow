@@ -12,11 +12,7 @@ I'm full-stack developer and content creator
 
 ###
 
-<h2 align="left">Hi, my name is Thiago</h2>
-
-###
-
-<p align="left">Read me</p>
+<p align="left">Techs</p>
 
 ###
 
