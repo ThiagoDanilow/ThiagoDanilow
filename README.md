@@ -24,8 +24,6 @@
 ###
 <h2>🚀 My Coding Progress</h2>
 
-<h2>🚀 My Coding Progress</h2>
-
 <div align="center">
 
   <!-- LeetCode Card -->
