@@ -22,14 +22,17 @@
 </div>
 
 ###
-## 🚀 My Coding Progress
+<h2>🚀 My Coding Progress</h2>
 
-### LeetCode
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ThiagoDanilow?theme=dark&font=Sarala&ext=heatmap)
+  <!-- LeetCode Card -->
+  <img src="https://leetcard.jacoblin.cool/ThiagoDanilow?ext=heatmap" width="400px" alt="LeetCode Stats" />
 
-### GeeksforGeeks
+  <!-- GFG Card -->
+  <img src="https://gfgstatscard.vercel.app/danilowux53?theme=dark" width="400px" alt="GFG Card" />
 
-<img src="https://gfgstatscard.vercel.app/danilowux53?theme=dark" alt="GFG Card" width="100%" />
+</div>
+
 
 
