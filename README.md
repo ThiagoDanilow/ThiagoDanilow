@@ -24,10 +24,12 @@
 ###
 <h2>🚀 My Coding Progress</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<h2>🚀 My Coding Progress</h2>
+
+<div align="center">
 
   <!-- LeetCode Card -->
-  <img src="https://leetcard.jacoblin.cool/ThiagoDanilow?ext=heatmap" width="400px" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/ThiagoDanilow?ext=heatmap" width="400px" style="margin-right: 20px;" alt="LeetCode Stats" />
 
   <!-- GFG Card -->
   <img src="https://gfgstatscard.vercel.app/danilowux53?theme=dark" width="400px" alt="GFG Card" />
