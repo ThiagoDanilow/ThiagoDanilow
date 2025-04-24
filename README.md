@@ -28,5 +28,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ThiagoDanilow?theme=dark&font=Sarala&ext=heatmap)
 
-[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/ThiagoDanilow)](https://www.geeksforgeeks.org/user/ThiagoDanilow/)
+### GeeksforGeeks
 
+![GfG Stats](https://gfg-stats.vercel.app/api?user=ThiagoDanilow)
