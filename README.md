@@ -30,4 +30,4 @@
 
 ### GeeksforGeeks
 
-![GfG Stats](https://gfg-stats.vercel.app/api?user=ThiagoDanilow)
+<img src="https://gfg-stats-card.nikhilpal.tech/api?username=ThiagoDanilow&theme=dark" alt="GFG Card" width="100%" />
