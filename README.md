@@ -4,15 +4,11 @@
 
 <p align="left">👩‍💻 Sobre Mim<br>Olá, meu nome é Thiago<br><br>- 📖 Aluno de Ciência da Computação na Universidade Católica de Santos<br>- ✉️ Você pode entrar em contato comigo por email: danilowthiago@gmail.com<br>- 💻 Atualmente focado em:</p>
 
-###
+# 💻 Tech Stack:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+## Programming Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ###
 
