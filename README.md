@@ -1,8 +1,8 @@
-<h1 align="center">Olá 👋</h1>
+<h1 align="center">Hey! 👋</h1>
 
 ###
 
-<p align="left">👩‍💻 Sobre Mim<br>Olá, meu nome é Thiago<br><br>- 📖 Aluno de Ciência da Computação na Universidade Católica de Santos<br>- ✉️ Você pode entrar em contato comigo por email: danilowthiago@gmail.com<br>- 💻 Atualmente focado em:</p>
+<p align="left">👩‍💻 About me<br>Hey, My name is Thiago<br><br>- 📖 Computer Science student at Universidade Católica de Santos<br>- ✉️ You can contact me by email: danilowthiago@gmail.com<br>- 💻 Currently focused on:</p>
 
 💻 Languages: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
