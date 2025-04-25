@@ -2,9 +2,9 @@
 
 ###
 
-• Computer Science student at Universidade Católica de Santos  
-• You can contact me by email: danilowthiago@gmail.com  
-• Currently focused on:
+🎓 I'm a Computer Science student at Universidade Católica de Santos.  
+💻 Passionate about back-end development, data structures, and cloud technologies.  
+📫 Reach me at: [danilowthiago@gmail.com](mailto:danilowthiago@gmail.com)
 
 💻 Languages: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
