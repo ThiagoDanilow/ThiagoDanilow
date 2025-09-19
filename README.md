@@ -17,19 +17,3 @@
 🚀 Tools & Platforms: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ###
-
-###
-<h2>🚀 My Coding Progress</h2>
-
-<div align="center">
-
-  <!-- LeetCode Card -->
-  <img src="https://leetcard.jacoblin.cool/ThiagoDanilow?ext=heatmap" width="400px" style="margin-right: 20px;" alt="LeetCode Stats" />
-
-  <!-- GFG Card -->
-  <img src="https://gfgstatscard.vercel.app/danilowux53?theme=dark" width="400px" alt="GFG Card" />
-
-</div>
-
-
-
