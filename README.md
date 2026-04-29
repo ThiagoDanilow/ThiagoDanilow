@@ -1,26 +1,12 @@
-<div align="center">
+Esse é meu readme: <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=120&section=header" width="100%"/>
-</div>
-
-<table border="0" cellspacing="0" cellpadding="20" width="100%">
-<tr>
-<td valign="middle">
-
 # Hey there, I'm Thiago 👋
-
-I'm a Computer Science student at **Universidade Católica de Santos**,
-currently working as an **IT Analyst Intern** while developing backend projects
-in my free time, with a strong focus on **Java** and software engineering.
-
-</td>
-<td valign="middle" align="center" width="300">
-<img src="https://github.com/ThiagoDanilow/ThiagoDanilow/blob/main/dec1c39d769e357c3ff95acd2478632c.jpg" width="240"/>
-</td>
-</tr>
-</table>
-
-<div align="center">
-
+<p align="center">
+  I'm a Computer Science student at <strong>Universidade Católica de Santos</strong>,<br/>
+  currently working as an <strong>IT Analyst Intern</strong> while developing backend projects<br/>
+  in my free time, with a strong focus on <strong>Java</strong> and software engineering.
+</p>
+<br/>
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danilowthiago@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagodanilow)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/thiagodanilow)
