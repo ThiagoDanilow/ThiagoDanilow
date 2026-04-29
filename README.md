@@ -30,8 +30,8 @@ in my free time, with a strong focus on **Java** and software engineering.
 
 <br/><br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoDanilow&show_icons=true&theme=transparent&hide_border=false&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&langs_count=6)
-&nbsp;&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDanilow&layout=compact&theme=transparent&hide_border=false&title_color=58a6ff&text_color=c9d1d9&card_width=320)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoDanilow&show_icons=true&theme=transparent&hide_border=false&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDanilow&layout=compact&theme=transparent&hide_border=false&title_color=58a6ff&text_color=c9d1d9)
+
 
 </div>
