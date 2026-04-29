@@ -28,4 +28,9 @@ in my free time, with a strong focus on **Java** and software engineering.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThiagoDanilow&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDanilow&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9)
+
 </div>
