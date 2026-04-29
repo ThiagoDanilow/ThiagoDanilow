@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  I'm Thiago, a Computer Science student at <strong>Universidade Católica de Santos</strong>.<br/>
-  Currently working as an <strong>IT Analyst Intern</strong> and a backend developer<br/>
-  focused in <strong>Java</strong> during my free time.
+  I'm a Computer Science student at <strong>Universidade Católica de Santos</strong>,<br/>
+  currently working as an <strong>IT Analyst Intern</strong> while developing backend projects<br/>
+  in my free time, with a strong focus on <strong>Java</strong> and software engineering.
 </p>
 
 <br/>
