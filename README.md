@@ -13,6 +13,7 @@ in my free time, with a strong focus on **Java** and software engineering.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagodanilow)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/thiagodanilow)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/thiagodanilow)
+[![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=flat-square&logo=dailydotdev&logoColor=white)](https://app.daily.dev/thiagodanilow)
 
 ---
 
