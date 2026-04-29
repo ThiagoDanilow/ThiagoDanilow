@@ -5,10 +5,6 @@
 # Hey there, I'm Thiago 👋
 
 <p align="center">
-  <em>Computer Science student · IT Analyst Intern · Backend Developer</em>
-</p>
-
-<p align="center">
   I'm a Computer Science student at <strong>Universidade Católica de Santos</strong>,<br/>
   currently working as an <strong>IT Analyst Intern</strong> while developing backend projects<br/>
   in my free time, with a strong focus on <strong>Java</strong> and software engineering.
