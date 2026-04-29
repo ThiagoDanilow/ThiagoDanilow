@@ -2,21 +2,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=120&section=header" width="100%"/>
 </div>
 
-<img src="https://github.com/ThiagoDanilow/ThiagoDanilow/blob/main/dec1c39d769e357c3ff95acd2478632c.jpg" width="220" align="right"/>
+<table border="0" cellspacing="0" cellpadding="20" width="100%">
+<tr>
+<td valign="middle">
 
-&nbsp;
+# Hey there, I'm Thiago 👋
 
-# &nbsp; Hey there, I'm Thiago 👋
+I'm a Computer Science student at **Universidade Católica de Santos**,
+currently working as an **IT Analyst Intern** while developing backend projects
+in my free time, with a strong focus on **Java** and software engineering.
 
-&nbsp;
-
-&nbsp; I'm a Computer Science student at **Universidade Católica de Santos**,
-&nbsp; currently working as an **IT Analyst Intern** while developing backend projects
-&nbsp; in my free time, with a strong focus on **Java** and software engineering.
-
-&nbsp;
-
-<br clear="right"/>
+</td>
+<td valign="middle" align="center" width="300">
+<img src="https://github.com/ThiagoDanilow/ThiagoDanilow/blob/main/dec1c39d769e357c3ff95acd2478632c.jpg" width="240"/>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
