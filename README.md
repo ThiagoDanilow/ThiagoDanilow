@@ -18,8 +18,6 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/thiagodanilow)
 
 </div>
----
-
 <div align="center">
 
 ## 🛠️ Tech Stack
