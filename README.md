@@ -1,1 +1,1 @@
-[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=left&titleAlign=left&fontSize=20&lineCount=1&theme=github_dark&line1=java,java,auto;spring,springboot,auto;mysql,mysql,auto;)](https://github-readme-tech-stack.vercel.app)
+[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=left&titleAlign=left&fontSize=20&lineCount=1&theme=github_dark&line1=openjdk,java,auto;spring,springboot,auto;mysql,mysql,auto;)](https://github-readme-tech-stack.vercel.app)
