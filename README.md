@@ -1,22 +1,25 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=120&section=header" width="100%"/>
+</div>
 
-<img src="https://github.com/ThiagoDanilow/ThiagoDanilow/blob/main/dec1c39d769e357c3ff95acd2478632c.jpg" width="220"/>
+<img src="https://github.com/ThiagoDanilow/ThiagoDanilow/blob/main/dec1c39d769e357c3ff95acd2478632c.jpg" width="220" align="left"/>
 
 # Hey there, I'm Thiago 👋
 
-<p>
-  I'm a Computer Science student at <strong>Universidade Católica de Santos</strong>,<br/>
-  currently working as an <strong>IT Analyst Intern</strong> while developing backend projects<br/>
-  in my free time, with a strong focus on <strong>Java</strong> and software engineering.
-</p>
+I'm a Computer Science student at **Universidade Católica de Santos**,
+currently working as an **IT Analyst Intern** while developing backend projects
+in my free time, with a strong focus on **Java** and software engineering.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danilowthiago@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagodanilow)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/thiagodanilow)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/thiagodanilow)
 
+<br clear="left"/>
+
 ---
+
+<div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
