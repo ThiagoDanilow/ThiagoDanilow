@@ -1,4 +1,4 @@
-Esse é meu readme: <div align="center">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:0d1117&height=120&section=header" width="100%"/>
 # Hey there, I'm Thiago 👋
 <p align="center">
@@ -11,6 +11,7 @@ Esse é meu readme: <div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagodanilow)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/thiagodanilow)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://hackerrank.com/thiagodanilow)
+</div>
 
 ---
 
