@@ -21,7 +21,7 @@
 
 </td>
 <td width="40%" align="center" valign="middle">
-  <img src="SUA_IMAGEM_AQUI" width="280"/>
+  <img src="(https://i.pinimg.com/736x/de/c1/c3/dec1c39d769e357c3ff95acd2478632c.jpg)" width="280"/>
 </td>
 </tr>
 </table>
